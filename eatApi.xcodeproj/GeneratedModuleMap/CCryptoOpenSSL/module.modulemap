@@ -1,4 +1,4 @@
 module CCryptoOpenSSL {
-    umbrella "/Users/wangzeyi/Desktop/code/eatApi/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    umbrella "/Users/wangzeyi/Desktop/code/eatAPI/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
     export *
 }
