@@ -20,3 +20,5 @@ extension Dish: SQLiteModel {
 }
 
 extension Dish: Migration { }
+
+extension Dish: Parameter { }
